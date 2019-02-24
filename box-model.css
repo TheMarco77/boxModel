@@ -15,10 +15,9 @@
 
     /* Apply a 2px solid border to each side. */
     border: 2px solid tomato;
-  
-    
+
     /* Use margins to center .box on the page. */
-  
+    margin: auto;
     
     /* Prevent the contents of .box from overflowing. */
   
