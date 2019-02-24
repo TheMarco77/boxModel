@@ -5,7 +5,10 @@
 .box {
   
     /* Apply a fluid width of 90% and a height of 300px. 
-    The width of .box should get no wider than 600px. */  
+    The width of .box should get no wider than 600px. */
+    width: 90%;
+    height: 300px;
+    max-width: 600px;
   
   
   
