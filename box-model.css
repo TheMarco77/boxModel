@@ -20,7 +20,7 @@
     margin: auto;
     
     /* Prevent the contents of .box from overflowing. */
-  
+    overflow: auto;
     
     /* Force border-width and padding values into the total width and height of .box */
   
